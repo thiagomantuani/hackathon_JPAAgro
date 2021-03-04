@@ -1,5 +1,5 @@
 # hackathon_JPAAgro
-solução do Hackathon JPAAgro com ensemble de algoritmos
+solução da equipe Sirius do Hackathon JPAAgro com ensemble de algoritmos
 
 
 # Desafio do Hackathon
