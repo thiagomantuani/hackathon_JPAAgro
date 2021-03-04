@@ -20,4 +20,4 @@ O passo a passo encontra-se neste [notebook](https://github.com/thiagomantuani/h
 
 
 # Bibliotecas
-As bibliotecas necessárias para execução deste projeto podem ser vistas no arquivo [requiriments](https://github.com/thiagomantuani/hackathon_JPAAgro/blob/main/requirements.txt)
+As bibliotecas necessárias para execução deste projeto podem ser vistas no arquivo [requirements](https://github.com/thiagomantuani/hackathon_JPAAgro/blob/main/requirements.txt)
