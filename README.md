@@ -3,7 +3,7 @@ Solução da equipe Sirius do Hackathon JPAAgro 2021.
 
 
 # Desafio do Hackathon
-O Enunciado do problema pode ser visto através do [repositório](https://github.com/dsrg-icet/hackathon_JPAAgro)
+O enunciado do problema pode ser visto através do [repositório](https://github.com/dsrg-icet/hackathon_JPAAgro)
 
 
 # Passos do desafio
