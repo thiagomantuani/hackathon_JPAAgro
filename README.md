@@ -16,4 +16,5 @@ O Enunciado do problema pode ser visto através do [repositório](https://github
 - Aplicação dos modelos de Machine Learning
 - Tunando hiperparâmetros
 
-O passo a passo encontra-se neste [notebook]()
+O passo a passo encontra-se neste [notebook](https://github.com/thiagomantuani/hackathon_JPAAgro/blob/main/notebook/hackton_ufla_JPA_agro.ipynb)
+
