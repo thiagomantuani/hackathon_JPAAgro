@@ -23,4 +23,4 @@ As bibliotecas necessárias para execução deste projeto podem ser vistas no ar
 
 
 # Submissão
-Os arquivos enviados para a submissão se encontram no [diretório](https://github.com/thiagomantuani/hackathon_JPAAgro/tree/main/submissao)
+Os arquivos enviados se encontram no [diretório](https://github.com/thiagomantuani/hackathon_JPAAgro/tree/main/submissao)
