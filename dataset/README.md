@@ -15,8 +15,6 @@ O arquivo ```evalute.py``` obtém a métrica RMSE das predições enviadas. Seu 
 
 Ambos arquivos ```true_values.txt``` e ```predicted_values.txt``` devem conter 30 valores reais separados por vírgula, com arredondamento e duas casas decimais. O arquivo ```true_values.txt``` será disponibilizado publicamente após o envio das soluções.
 
-> Esse script foi atualizado para rodar apenas com os 
-
 
 ## Atributos
 
