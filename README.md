@@ -18,3 +18,6 @@ O Enunciado do problema pode ser visto através do [repositório](https://github
 
 O passo a passo encontra-se neste [notebook](https://github.com/thiagomantuani/hackathon_JPAAgro/blob/main/notebook/hackton_ufla_JPA_agro.ipynb)
 
+
+# Bibliotecas
+As bibliotecas necessárias para execução deste projeto podem ser vistas no arquivo [requiriments](https://github.com/thiagomantuani/hackathon_JPAAgro/blob/main/requirements.txt)
