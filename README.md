@@ -1,10 +1,9 @@
-# hackathon_JPAAgro
+# Hackathon JPAAgro
 Solução da equipe Sirius do Hackathon JPAAgro 2021.
 
 
 # Desafio do Hackathon
 O enunciado do problema pode ser visto através do [repositório](https://github.com/dsrg-icet/hackathon_JPAAgro)
-
 
 # Passos do desafio
 - Entendimento do problema
