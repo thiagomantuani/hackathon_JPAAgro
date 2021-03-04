@@ -20,3 +20,7 @@ O passo a passo encontra-se neste [notebook](https://github.com/thiagomantuani/h
 
 # Bibliotecas
 As bibliotecas necessárias para execução deste projeto podem ser vistas no arquivo [requirements](https://github.com/thiagomantuani/hackathon_JPAAgro/blob/main/requirements.txt)
+
+
+# Submissão
+Os arquivos enviados para a submissão se encontram no [diretório](https://github.com/thiagomantuani/hackathon_JPAAgro/tree/main/submissao)
