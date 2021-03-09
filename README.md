@@ -8,7 +8,7 @@ O enunciado do problema pode ser visto através do [repositório](https://github
 # Passos utilizados no desafio
 - Entendimento do problema
 - Descrição dos dados
-- Featuring Engineering
+- Feature Engineering
 - Análise exploratória
 - Preparação dos dados
 - Feature Selection
