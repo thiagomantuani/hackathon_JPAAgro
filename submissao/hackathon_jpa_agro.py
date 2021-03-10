@@ -75,17 +75,9 @@ class HackathonJPAAgro(object):
         #os valores NaN apos a correcao foram preenchidos com os valores anteriores a eles
         df_aux = pd.date_range(start='2014-01-07',end='2019-07-31',name='negotiation_date').to_frame().reset_index(drop=True)
         all_data = pd.merge(left=df_aux,right=df1,how='left',left_on='negotiation_date',right_on='negotiation_date')
-        all_data['sold_price'].fillna(method='ffill',inplace=True)
-        d=all_data[(all_data['negotiation_date']>='2019-07-01') & (all_data['negotiation_date']<='2019-07-31')]
-   
-        v = d['sold_price'].values.tolist()
-        v1 = [str(i) for i in v]
-        v2 = ','.join(v1)
-        with open('true_values.txt','w') as f:
-            for row in v2:                                
-                f.write(row)
-        
-        return df1
+        all_data['sold_price'].fillna(method='ffill',inplace=True)         
+       
+        return all_data
     
     def FeatureEngineering(self,df2):
         
